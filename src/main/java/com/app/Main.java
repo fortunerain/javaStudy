@@ -1,6 +1,6 @@
 package com.app;
 
-import com.app.movie.exam1.*;
+import com.app.study.object.movie.exam1.*;
 
 import java.time.DayOfWeek;
 import java.time.Duration;
